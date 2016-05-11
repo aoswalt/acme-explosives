@@ -1,10 +1,148 @@
 {
-  "products": [{
-    "fairy_sparklers": {
-      "id": 0,
-      "type": 0,
-      "name": "Fairy Sparklers",
-      "description": "Multi-colored sparklers that are safe for any age."
-    }
-  }]
+  "products": [
+    {
+      "fairy_sparklers": {
+        "id": 0,
+        "type": 0,
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+      }
+    },
+    {
+      "bottle_rocket": {
+        "id": 1,
+        "type": 0,
+        "name": "Bottle Rocket",
+        "description": "Fwissh. Pop."
+      }
+    },
+    {
+      "smoke_bomb": {
+        "id": 2,
+        "type": 0,
+        "name": "Smoke Bomb",
+        "description": "A colorful cloud of smoke."
+      }
+    },
+    {
+      "mortar": {
+        "id": 3,
+        "type": 1,
+        "name": "Mortar",
+        "description": "The standard big colorful boom."
+      }
+    },
+    {
+      "mega_rocket": {
+        "id": 4,
+        "type": 1,
+        "name": "Mega Rocket",
+        "description": "An eye-catching, oversized bottle rocket."
+      }
+    },
+    {
+      "sparkler_box": {
+        "id": 5,
+        "type": 1,
+        "name": "Sparkler Box",
+        "description": "A fountain of sparklers contained in a box."
+      }
+    },
+    {
+      "bubble_wand": {
+        "id": 6,
+        "type": 2,
+        "name": "Bubble Wand",
+        "description": "A trail of bubbles by the flick of the wand."
+      }
+    },
+    {
+      "water_bomb": {
+        "id": 7,
+        "type": 2,
+        "name": "Water Bomb",
+        "description": "Explosives in water form."
+      }
+    },
+    {
+      "stremer_ball": {
+        "id": 8,
+        "type": 2,
+        "name": "Streamer Ball",
+        "description": "When you want to spread a bit of color trails around."
+      }
+    },
+    {
+      "det_cord": {
+        "id": 9,
+        "type": 3,
+        "name": "Det Cord",
+        "description": "A focused explosive that can be shaped as a cord."
+      }
+    },
+    {
+      "breach_charge": {
+        "id": 10,
+        "type": 3,
+        "name": "Breaching Charge",
+        "description": "Directed and quick to set up"
+      }
+    },
+    {
+      "black_powder": {
+        "id": 11,
+        "type": 3,
+        "name": "Black Powder",
+        "description": "Unfocused and unrefined but effective"
+      }
+    },
+    {
+      "tnt": {
+        "id": 12,
+        "type": 4,
+        "name": "TNT",
+        "description": "Your classic stick of dynamite"
+      }
+    },
+    {
+      "c4": {
+        "id": 13,
+        "type": 4,
+        "name": "C4",
+        "description": "Cliche plastique explosive"
+      }
+    },
+    {
+      "nitro": {
+        "id": 14,
+        "type": 4,
+        "name": "Nitroglycerin",
+        "description": "Unstable but highly effective"
+      }
+    },
+    {
+      "fert_bomb": {
+        "id": 15,
+        "type": 5,
+        "name": "Fertilizer Bomb",
+        "description": "Do-It-Yourself demolitions"
+      }
+    },
+    {
+      "demolizer": {
+        "id": 16,
+        "type": 5,
+        "name": "Demolizer",
+        "description": "Our trade-secret method of removing a structure"
+      }
+    },
+    {
+      "mini_nuke": {
+        "id": 17,
+        "type": 5,
+        "name": "Mini Nuke",
+        "description": "You know what you are getting into. Be warned."
+      }
+    },
+  ]
 }

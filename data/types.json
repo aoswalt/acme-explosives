@@ -5,6 +5,36 @@
       "category": 0,
       "name": "personal",
       "description": "Fireworks intended for recreational use during holiday celebrations"
+    },
+    {
+      "id": 1,
+      "category": 0,
+      "name": "commercial",
+      "description": "Fireworks for big celebrations and events"
+    },
+    {
+      "id": 2,
+      "category": 0,
+      "name": "toy",
+      "description": "Immitation fireworks intended for safe childrens play"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "name": "local",
+      "description": "The equivalent of punching a hole in a wall"
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "name": "small",
+      "description": "For when you want to get a fresh start on that room remodel"
+    },
+    {
+      "id": 5,
+      "category": 1,
+      "name": "building",
+      "description": "Efficiently clearing out space for a new construction project"
     }
   ]
 }
